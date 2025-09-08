@@ -1,4 +1,4 @@
-# IPL Data Analysis using PySpark
+# BigData-ETL-IPL-Analysis
 
 ## Project Overview
 This project performs exploratory data analysis (EDA) and insights generation from Indian Premier League (IPL) datasets using Apache Spark and Python (PySpark).  
